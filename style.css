@@ -21,6 +21,18 @@ h1,h2,h3{
       
 }
 
+h3{
+    color: #6d3a4d;
+}
+
+h2{
+    color: #76412f;
+}
+
+.footernutritionC{
+    color: #6b453a;
+}
+
 .containner{
     width: 720px;
     height: auto;
@@ -58,9 +70,10 @@ img{
     padding-left: 10%;
     margin-left: 30px;
     background-color: pink;
-    border: 1px solid pink;
+    border: 1px solid #fff6fa;
     border-radius: 10px;
     width: 90%;
+    background-color: #fff6fa;
 }
 
 .listone{
@@ -112,6 +125,11 @@ img{
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+
+.hr{
+    width: 90%;
+    margin-left: 5%;
 }
 
 @media (max-width:375px){
